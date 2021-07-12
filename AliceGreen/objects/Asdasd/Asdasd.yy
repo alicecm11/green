@@ -25,7 +25,7 @@
     "path": "AliceGreen.yyp",
   },
   "resourceVersion": "1.0",
-  "name": "Object2",
+  "name": "Asdasd",
   "tags": [],
   "resourceType": "GMObject",
 }

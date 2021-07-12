@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":11,},
     {"id":{"name":"Object3","path":"objects/Object3/Object3.yy",},"order":14,},
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":16,},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":12,},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},"order":13,},
     {"id":{"name":"Object4","path":"objects/Object4/Object4.yy",},"order":15,},

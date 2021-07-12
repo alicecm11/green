@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "Sprite1",
-    "path": "sprites/Sprite1/Sprite1.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -28,7 +25,7 @@
     "path": "AliceGreen.yyp",
   },
   "resourceVersion": "1.0",
-  "name": "Object1",
+  "name": "Object2",
   "tags": [],
   "resourceType": "GMObject",
 }
